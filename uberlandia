@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Comunicados - HUB Shopee Uberlândia</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #EE4D2D;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 26px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 0 15px;
+        }
+
+        .section {
+            background-color: #ffffff;
+            margin-bottom: 20px;
+            padding: 20px;
+            border-left: 6px solid #EE4D2D;
+            border-radius: 6px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+        }
+
+        .section h2 {
+            margin-top: 0;
+            color: #EE4D2D;
+            font-size: 20px;
+        }
+
+        .section ul {
+            padding-left: 20px;
+        }
+
+        .section ul li {
+            margin-bottom: 6px;
+        }
+
+        .alert {
+            font-weight: bold;
+            color: #d32f2f;
+        }
+
+        a {
+            color: #EE4D2D;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            background-color: #EE4D2D;
+            color: #ffffff;
+            text-align: center;
+            padding: 12px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Comunicados Operacionais – HUB Shopee Uberlândia</h1>
+</header>
+
+<div class="container">
+
+    <div class="section">
+        <h2>📦 Carregamento de Produtos Pequenos</h2>
+        <p>
+            Os produtos de pequeno porte devem ser obrigatoriamente acondicionados nas sacas
+            disponibilizadas pelos LOGs na mesa de contagem.
+        </p>
+        <p>
+            Após o acondicionamento, as sacas devem ser colocadas na gaiola para saída do HUB.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>🚛 Roteirização no HUB</h2>
+        <p class="alert">❌ Não é permitido realizar roteirização dentro do HUB.</p>
+        <p>Essa orientação tem como objetivo:</p>
+        <ul>
+            <li>Manter o fluxo adequado dos veículos em carregamento;</li>
+            <li>Evitar aglomerações na área de saída das gaiolas;</li>
+            <li>Garantir a liberação das vagas para motoristas que ainda não carregaram.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>🦺 Uso Obrigatório de EPIs</h2>
+        <p>
+            O uso de Equipamentos de Proteção Individual (EPIs) é obrigatório durante todo o
+            processo de carregamento e devolução:
+        </p>
+        <ul>
+            <li>Luvas</li>
+            <li>Colete</li>
+            <li>Botas</li>
+        </ul>
+        <p class="alert">
+            🚫 Sem o uso dos EPIs, o motorista não poderá acessar o HUB.
+        </p>
+        <p>
+            Os EPIs são essenciais para a segurança e prevenção de acidentes.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>📦 Devoluções</h2>
+        <p>
+            Devoluções com mais de 5 pacotes devem, obrigatoriamente, possuir ticket de devolução.
+        </p>
+        <p class="alert">
+            Sem o ticket, a devolução não será aceita pelo time responsável.
+        </p>
+        <p>
+            📞 Para solicitar o ticket:<br>
+            <strong>+55 11 2770-1438</strong><br>
+            ou WhatsApp:
+            <a href="https://api.whatsapp.com/send?phone=551127701438" target="_blank">
+                Clique aqui
+            </a>
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>⚠️ Acesso ao HUB com Crianças</h2>
+        <p>
+            Motoristas da Shopee não devem acessar o HUB acompanhados de menores/crianças.
+        </p>
+        <p>
+            A presença de crianças aumenta significativamente o risco de acidentes devido à
+            intensa movimentação de veículos.
+        </p>
+        <p class="alert">
+            ❗ O descumprimento poderá resultar em suspensão e/ou bloqueio do cadastro do motorista.
+        </p>
+        <p>
+            🔸 A entrada de acompanhantes adultos (ajudantes) permanece permitida.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>📌 Informações Importantes – Monitoramento</h2>
+        <p>
+            O setor de Monitoramento acompanha a rota do dia após a saída do HUB.
+        </p>
+        <p>🚨 Em casos de:</p>
+        <ul>
+            <li>Problemas mecânicos;</li>
+            <li>Imprevistos pessoais;</li>
+            <li>Dúvidas sobre entregas;</li>
+            <li>Qualquer situação que impacte a rota;</li>
+        </ul>
+        <p class="alert">
+            👉 Acione o Monitoramento imediatamente (até 21h).
+        </p>
+        <p>
+            🔗 Grupo Control Tower:<br>
+            <a href="https://chat.whatsapp.com/IG8tI1eQPJYAhewrEv6FV7" target="_blank">
+                Acessar grupo
+            </a>
+        </p>
+        <p>
+            📞 Contatos:<br>
+            <strong>Ana Flávia:</strong> +55 11 91355-6518<br>
+            <strong>Sandrine:</strong> +55 11 91534-4601 / +55 11 99161-7495
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>🧾 Suporte ao Driver</h2>
+        <p>Para assuntos relacionados a:</p>
+        <ul>
+            <li>Ticket de devolução</li>
+            <li>Notas fiscais</li>
+            <li>PNR</li>
+            <li>Bloqueios e desbloqueios</li>
+            <li>Cadastro</li>
+            <li>Bonificações</li>
+            <li>Pagamentos</li>
+        </ul>
+        <p>
+            ➡ Entre em contato com o Suporte ao Driver:<br>
+            📞 WhatsApp:
+            <a href="https://api.whatsapp.com/send?phone=551127701438" target="_blank">
+                Clique aqui
+            </a>
+        </p>
+        <p>
+            🕘 Atendimento: Segunda a sexta, das 08h às 20h (exceto feriados)
+        </p>
+    </div>
+
+</div>
+
+<footer>
+    © Shopee - HUB Uberlândia-MG| 
+</footer>
+
+</body>
+</html>
